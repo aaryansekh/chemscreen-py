@@ -1,0 +1,9 @@
+compound_id,smiles,target_activity_pIC50
+CMPD_01,CC(=O)Oc1ccccc1C(=O)O,5.2
+CMPD_02,CC(C)Cc1ccc(cc1)C(C)C(=O)O,6.1
+CMPD_03,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,4.8
+CMPD_04,c1ccc2c(c1)c(c[nH]2)CCN,5.9
+CMPD_05,COc1ccc2c(c1)c(c(n2)C(=O)N)CC(=O)O,6.7
+CMPD_06,O=C(c1ccc(Cl)cc1)c1cc2ccccc2[nH]1,7.2
+CMPD_07,c1ccc(cc1)C(=O)Nc1ccccc1,4.5
+CMPD_08,c1cc2c(cc1O)c(c[nH]2)C(=O)O,5.4
